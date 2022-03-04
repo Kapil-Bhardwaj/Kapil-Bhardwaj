@@ -1,4 +1,4 @@
-                                 _  **शीलं परमं भूषणम्**_
+                                 **शीलं परमं भूषणम्**
 - 👋 Hey , It's Kapil Bhardwaj
 - 👀  Efficient in making web , android and Ios Application
 - 🌱 Work to make Human Life easier
