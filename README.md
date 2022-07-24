@@ -46,7 +46,7 @@
 ### :woman_technologist: About Me :
   
 - :telescope: I’m pursuing B.Tech computer science  from Graphic Era Hill University
-- 📰 Published Patent on 3D-pen(A air Pen)
+- 📰 Patent got Published on 3D-pen(A air Pen)
 
 - :seedling: Exploring the feilds to make Human life easier (Artificial Inteligence , Machine Learning and Internet Of Things).
 
