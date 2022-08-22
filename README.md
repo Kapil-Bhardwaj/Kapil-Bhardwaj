@@ -15,11 +15,11 @@
 
 <!-- Soccial logo -->
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/kapil-bhardwaj-069710204/)">
+  <a href="https://www.linkedin.com/in/kapil-bhardwaj-069710204/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
-  <a href="[your-twitter-URL](https://leetcode.com/KAPIL_BHARDWAJ/)">
+  <a href="https://leetcode.com/KAPIL_BHARDWAJ/">
     <img src="https://img.shields.io/badge/Leatcode-yellow?style=for-the-badge&logoColor=yellow" alt="Twitter Badge"/>
   </a>
 </div>
