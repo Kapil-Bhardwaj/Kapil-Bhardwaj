@@ -92,16 +92,9 @@
 
 
 ### :fire: My Stats :
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kapil-Bhardwaj&show_icons=true&locale=en&layout=compact" alt="Kapil-Bhardwaj" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kapil-Bhardwaj&show_icons=true&locale=en" alt="Kapil-Bhardwaj" /></p>
 
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapil-Bhardwaj&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kapil-Bhardwaj&" alt="Kapil-Bhardwaj" /></p>
 
