@@ -96,5 +96,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kapil-Bhardwaj&show_icons=true&locale=en" alt="Kapil-Bhardwaj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kapil-Bhardwaj&" alt="Kapil-Bhardwaj" /></p>
+
 
